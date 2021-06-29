@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" >
+        <shape>
+            <gradient
+                android:startColor="#fc5d70"
+                android:endColor="#fc5d70"
+                android:angle="270" />
+            <stroke
+                android:width="3dp"
+                android:color="#fc5d70" />
+            <corners
+                android:radius="3dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+    </item>
+
+    <item android:state_focused="true" >
+        <shape>
+            <gradient
+                android:endColor="#fc5d70"
+                android:startColor="#fc5d70"
+                android:angle="270" />
+            <stroke
+                android:width="3dp"
+                android:color="#fc5d70" />
+            <corners
+                android:radius="3dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape>
+            <gradient
+                android:endColor="#aeaeae"
+                android:startColor="#aeaeae"
+                android:angle="270" />
+            <stroke
+                android:width="3dp"
+                android:color="#aeaeae" />
+            <corners
+                android:radius="3dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:endColor="#fc5d70"
+                android:startColor="#fc5d70"
+                android:angle="270" />
+            <stroke
+                android:width="1dp"
+                android:color="#ffffff" />
+            <corners
+                android:radius="4dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+    </item>
+</selector>

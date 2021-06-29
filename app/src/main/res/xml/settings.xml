@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="@string/pref_minimumOrderKey"
+        android:title="@string/pref_minimumOrder"
+        android:dialogTitle="@string/pref_minimumOrder"
+        android:entries="@array/pref_minimumOrder_entries"
+        android:entryValues="@array/pref_minimumOrder_values"
+        android:defaultValue="@string/pref_minimumOrder_default" />
+
+    <ListPreference
+        android:key="@string/pref_costOrderKey"
+        android:title="@string/pref_costOrder"
+        android:dialogTitle="@string/pref_costOrder"
+        android:entries="@array/pref_costOrder_entries"
+        android:entryValues="@array/pref_costOrder_values"
+        android:defaultValue="@string/pref_costOrder_default" />
+
+    <ListPreference
+        android:key="@string/pref_soundKey"
+        android:title="@string/pref_sound"
+        android:dialogTitle="@string/pref_sound"
+        android:entries="@array/pref_sounds"
+        android:entryValues="@array/pref_soundsValues"
+        android:defaultValue="@string/pref_soundDefault" />
+    <Preference
+        android:key="Inventario"
+        android:title="Inventario">
+        <intent android:action="com.example.android.fragments.InventoryActivity"/>
+    </Preference>
+    <Preference
+        android:key="Salir"
+        android:title="Salir">
+        <intent android:action="com.example.android.fragments.Logout"/>
+
+    </Preference>
+
+</PreferenceScreen>

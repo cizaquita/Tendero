@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_config.png",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\mipmap-mdpi\\ic_config.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_telephone.png",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\mipmap-mdpi\\ic_telephone.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_refresh.png",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\mipmap-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_stats.png",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\mipmap-mdpi\\ic_stats.png"
+    }
+]

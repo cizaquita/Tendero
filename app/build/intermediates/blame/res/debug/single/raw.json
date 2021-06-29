@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\woohoo01.mp3",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\raw\\woohoo01.mp3"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cashregistercoins.mp3",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\raw\\cashregistercoins.mp3"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\raw\\callingwhistle.mp3",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\raw\\callingwhistle.mp3"
+    }
+]

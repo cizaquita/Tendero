@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\activity_register.xml",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\layout-large\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\news_articles.xml",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\layout-large\\news_articles.xml"
+    },
+    {
+        "merged": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_pagado.xml",
+        "source": "C:\\wamp\\www\\aplicaciones\\tiendosqui\\platforms\\tendero\\app\\src\\main\\res\\layout-large\\dialog_pagado.xml"
+    }
+]

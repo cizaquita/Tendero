@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="#FF21db13"
+        android:padding="30dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="Estado del pago"/>
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:text="El pedido ha cambiado su estado a:"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="2dp"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:id="@+id/togglePagado"
+        android:text="No pagado"/>
+
+</LinearLayout>

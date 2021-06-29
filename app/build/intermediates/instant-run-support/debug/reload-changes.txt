@@ -1,0 +1,10 @@
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$12$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$11$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$10$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$14$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$14$1$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$13$1$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$13$override.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\wamp\www\aplicaciones\tiendosqui\platforms\tendero\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\fragments\MainActivity$15$override.class

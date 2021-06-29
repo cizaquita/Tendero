@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_array">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+    </string-array>
+
+    <string-array name="reject_array" >
+        <item>No tengo uno de los productos solicitados</item>
+        <item>No tengo con quien enviar el pedido</item>
+        <item>No puedo cumplir con el domicilio en 20 minutos o menos</item>
+    </string-array>
+
+    <string-array name="pref_minimumOrder_entries" >
+        <item>$5,000</item>
+        <item>$10,000</item>
+        <item>$15,000</item>
+        <item>$20,000</item>
+    </string-array>
+
+    <string-array name="pref_minimumOrder_values">
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>20000</item>
+    </string-array>
+
+    <string-array name="pref_costOrder_entries">
+        <item>$1,000</item>
+        <item>$1,500</item>
+        <item>$2,000</item>
+        <item>$2,500</item>
+        <item>$3,000</item>
+        <item>$3,500</item>
+    </string-array>
+
+    <string-array name="pref_costOrder_values">
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>3500</item>
+    </string-array>
+
+    <string-array name="pref_sounds" >
+
+        <item>Caja registradora</item>
+        <item>Woohoo</item>
+        <item>Chiflido</item>
+
+    </string-array>
+
+    <string-array name="pref_soundsValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>
